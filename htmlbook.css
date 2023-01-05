@@ -1,0 +1,22 @@
+.backcolor {
+	background-color: #696969;
+	width: auto;
+	height: 46px;
+	display: flex;
+	align-items: center;
+	}
+img {
+	width: 80px;
+	height: 80px;
+}	
+.leftside {
+	display: flex;
+	align-items: flex-end;
+	margin: 10px;
+	flex-direction: row;
+}
+.puzzle {
+	display: flex;
+	justify-content: flex-end;
+	flex-direction: row;
+}
